@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>诸葛的生活</title>
+    <link>https://zhugexubing.github.io/</link>
+    <description>Recent content on 诸葛的生活</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 21 Jul 2019 23:02:52 +0800</lastBuildDate>
+    
+	<atom:link href="https://zhugexubing.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>python基础</title>
+      <link>https://zhugexubing.github.io/%E5%B7%A5%E4%BD%9C/python%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Sun, 21 Jul 2019 23:02:52 +0800</pubDate>
+      
+      <guid>https://zhugexubing.github.io/%E5%B7%A5%E4%BD%9C/python%E5%9F%BA%E7%A1%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>序言</title>
+      <link>https://zhugexubing.github.io/%E5%B7%A5%E4%BD%9C/%E5%BA%8F%E8%A8%80/</link>
+      <pubDate>Sun, 21 Jul 2019 23:02:52 +0800</pubDate>
+      
+      <guid>https://zhugexubing.github.io/%E5%B7%A5%E4%BD%9C/%E5%BA%8F%E8%A8%80/</guid>
+      <description>如何去改变命运？我觉得三十岁以后的认真可以做到。。。人的前半生是由出身决定的，出身决定了一个人的性格也决定了前半生的命运，也许有人高呼某人出身贫寒，却还是早早事业有成之类的， 那也只有呵呵以对了，毕竟那单纯幸福的人甚至都搞不懂出身的概念，因为他的生活还牵扯不到这个。 那么言归正传，一个没钱没背景当然也不曾有人生导师的普通人，该做些什么去改变命运呢？别人我不知道，从我自己身上，正常的思维逻辑已经做不到了，这个时候只能去赌， 也许有人说了，怎么不去拼呢。。如果一个经历世事的成年人，还这样子说，那就甭理他了，因为他一定是那个单纯幸福的人，当然努力工作养家糊口是肯定能做到的，但也就只能 如此了。我所说的赌并不是指赌博游戏，并不是因为是人皆唾弃赌博，而是正常人应该清醒的认识到从概率上讲，赌博的结果就是输到底，当我迷茫的时候，想到了金融市场，股票、 期货、外汇。。等等这些，似乎只要有能力，不管你出身贫富，都可以在这个所谓的零和游戏里赚取无尽的财富，理论上是这样的，但现实中会遇到很多问题，和做其他生意一样，本金 这一步就难为了很多人，我也曾拿着有限的本钱在外汇、期货市场拼杀了多年，却无所成，一次大亏之后，我意识到了人性的弱点是无法克服的，遂决定投身于代码的世界，把一切交给 电脑，交给编译好的系统程序，并决心做一个熟练地quant,毕竟已经在上面浪费掉了青春，失去的。。。我一定会拿回来的。 那么也就是说，这里所说的工作，就是指量化交易，记录一个学习探讨的过程。</description>
+    </item>
+    
+    <item>
+      <title>序言</title>
+      <link>https://zhugexubing.github.io/%E7%94%9F%E6%B4%BB/%E5%BA%8F%E8%A8%80/</link>
+      <pubDate>Sun, 21 Jul 2019 23:02:52 +0800</pubDate>
+      
+      <guid>https://zhugexubing.github.io/%E7%94%9F%E6%B4%BB/%E5%BA%8F%E8%A8%80/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
