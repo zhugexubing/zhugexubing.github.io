@@ -12,6 +12,21 @@
     
     
     <item>
+      <title>python基础</title>
+      <link>https://zhugexubing.github.io/%E5%B7%A5%E4%BD%9C/python%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhugexubing.github.io/%E5%B7%A5%E4%BD%9C/python%E5%9F%BA%E7%A1%80/</guid>
+      <description>除法（/）永远返回一个浮点数。如要使用 floor 除法 并且得到整数结果（丢掉任何小数部分），你可以使用 // 运算符；要计算余数你可以使用 %：
+   17 / 3 # 一般除法返回浮点数 5.666666666666667
+17 // 3 # floor 除法丢掉分数部分 5 17 % 3 # % 操作符来取余数 2
+   交互模式中，最近一个表达式的值赋给变量 _。这样我们就可以把它当作一个桌面计算器，很方便的用于连续计算，例如: &amp;gt;&amp;gt;&amp;gt; price * tax 12.5625 &amp;gt;&amp;gt;&amp;gt; price + _ 113.0625 &amp;gt;&amp;gt;&amp;gt; round(_, 2) 113.06
+\ 可以用来转义引号： &amp;gt;&amp;gt;&amp;gt; &amp;lsquo;doesn\&amp;rsquo;t&amp;rsquo; # 使用转义符 &amp;ldquo;doesn&amp;rsquo;t&amp;rdquo;
+如果你不想 \ 开头的字符被解释为特殊字符的话，你可以在 原始字符串 第一个引号前加 r ：
+   print(&amp;lsquo;C:\some\name&amp;rsquo;) # 这里的 \n 意味着换行 C:\some ame print(r&amp;rsquo;C:\some\name&amp;rsquo;) # 注意单引号前的 r C:\some\name</description>
+    </item>
+    
+    <item>
       <title>序言</title>
       <link>https://zhugexubing.github.io/%E5%B7%A5%E4%BD%9C/%E5%BA%8F%E8%A8%80/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
